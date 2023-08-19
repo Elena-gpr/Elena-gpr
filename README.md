@@ -1,5 +1,5 @@
 ### Hello World! :wave:
-![me](https://github.com/Elena-gpr/Elena-gpr/assets/80230134/6abd01da-71b8-49ad-8c14-8d60e95ce8b8)
+![me](https://github.com/Elena-gpr/Elena-gpr/assets/80230134/97cb09bd-52f1-4759-ac99-d84e40fd42ef)
 
 
 <!--
