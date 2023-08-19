@@ -1,4 +1,6 @@
 ### Hello World! :wave:
+![me](https://github.com/Elena-gpr/Elena-gpr/assets/80230134/6abd01da-71b8-49ad-8c14-8d60e95ce8b8)
+
 
 <!--
 **Elena-gpr/Elena-gpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
