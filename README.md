@@ -1,18 +1,21 @@
-### Hello World! :wave:
+# 👋 Hello World! I'm Luisa Gutiérrez
 
+Welcome to my GitHub profile!
 
+## 🚀 About Me
 
-<!--
-**Elena-gpr/Elena-gpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about databases and Machine Learning.
+- 📊 I’m working on my thesis project, which focuses on a statistical model for age estimation using dental organs.
+- 💬 I love talking about technology, sports, and science.
+- 📫 You can reach me at: [elena.gpr16@gmail.com](mailto:elena.gpr16@gmail.com).
 
-Here are some ideas to get you started:
+## ⭐ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Machine Learning**: Exploring various algorithms and models to gain insights and make predictions.
+- **Data Visualization**: Creating insightful dashboards using Looker Studio.
+
+## 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/iam-luisa-gutierrez-datos/)
+
+Thanks for stopping by! 😊
