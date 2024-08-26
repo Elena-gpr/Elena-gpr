@@ -1,6 +1,5 @@
 # 👋 Hello World! I'm Luisa Gutiérrez
 
-Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
