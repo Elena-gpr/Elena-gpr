@@ -12,7 +12,10 @@ Welcome to my GitHub profile!
 ## ⭐ Projects
 
 - **Machine Learning**: Exploring various algorithms and models to gain insights and make predictions.
+    -- [**Proyecto:**](https://github.com/Elena-gpr/ml-models)
 - **Data Visualization**: Creating insightful dashboards using Looker Studio.
+    -- [**Proyecto 1:**](https://github.com/Elena-gpr/Data_Vizulization) 
+    -- [**Proyecto 2:**](https://github.com/Elena-gpr/data-visualization)
 
 ## 🌐 Find Me Online
 
