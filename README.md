@@ -17,6 +17,9 @@ Welcome to my GitHub profile!
 2. **Data Visualization**: Creating insightful dashboards using Looker Studio.
     - [**Proyecto 1:**](https://github.com/Elena-gpr/Data_Vizulization) 
     - [**Proyecto 2:**](https://github.com/Elena-gpr/data-visualization)
+  
+## :bulb: Certifications
+- Here you can find some certifications: (https://github.com/Elena-gpr/Certifications)
 
 ## 🌐 Find Me Online
 
