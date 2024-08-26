@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
     - [**Proyecto 2:**](https://github.com/Elena-gpr/data-visualization)
   
 ## :bulb: Certifications
-- Here you can find some certifications:[**Link**](https://github.com/Elena-gpr/Certifications)
+    - [**certifications**](https://github.com/Elena-gpr/Certifications)
 
 ## 🌐 Find Me Online
 
